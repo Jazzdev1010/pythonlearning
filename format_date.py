@@ -1,3 +1,5 @@
+"Write a program that takes a date as input in YYYY-MM-DD format and prints it in a more readable format"
+
 from datetime import datetime
 
 # Get the date string as input
